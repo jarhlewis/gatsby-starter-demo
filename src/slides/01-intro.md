@@ -1,25 +1,55 @@
-# Gatsby Deck
+# Jarh's Portfolio
 
-Create presentations using Gatsby & React.
-
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+Use left and right arrow keys to navigate 👈🏻 👉🏻
 
 ---
 
-# 🤫
+> We shall not cease from exploration, 
+> and the end of all our exploring will be
+> to arrive where we started and
+> know the place for the first time.
+> <cite>T. S. Eliot</cite>
 
 ---
 
-## Slides are written in Markdown!
+# Projects
 
-Here's the source of the first slide:
+---
 
-    # Gatsby Deck
+## Jarh.io
 
-    Create presentations using Gatsby & React.
+This site you are in 😎.
+
+__*Stack: gatsby*__
+
+---
+
+## Tutor Ahora
+
+A C2C marketplace for student's and tutors
+
+to do business with each other.
+
+__*Stack: react js, mongoDB, express js*__
+
+    tutorahora.com
+
+---
+
+## Data Bot
+
+A cloud native custom data scraping service.
+
+__*Stack: python and gatsby*__
+
+    databot.io
+
+---
+
+## Termómetro Hípico
+
+__*Stack: spring, postgresql and react js*__
+
+Handicapping as a service.
+
+    termometrohipico.com
